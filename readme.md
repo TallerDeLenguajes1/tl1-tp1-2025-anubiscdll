@@ -59,3 +59,7 @@ Con hacer estos cambios el código quedaria arreglado.
 
 En el repositorio de github veo los archivos del punto 2, tanto codigo como sus ejecutables, el gitignore y el readme. Los archivos que creo innecesarios que esten son los ejecutables ya que al estar el codigo es redundante que este el ejecutable.
 Por eso agrego reglas en el .gitignore para ignorar los ejecutables.
+
+### Apartado g
+
+Podemos ver que en los apartados 2 y 3 hablamos del **contenido del puntero** y de la **direccion de memoria de la variable**, el resultado es justamente el mismo ya que asignamos que nuestro **puntero** apunte a la **dirección de la variable**, es decir, el **contenido** del puntero **es la dirección de memoria de la variable**. Si tenemos en cuenta que cada variable tiene nombre,dirección y contenido, a pesar de que pueda ser confuso al principio, tenemos que entender que asi como la variable tiene estos tres elementos, el puntero tambien los tiene. En el punto 4 vemos la **direccion de memoria** en la que esta almacenado el puntero, la cual es distinta a las anteriores. Ya que en los casos anteriores primero hablamos del **contenido** del **puntero**, luego de la **dirrección de memoria** de la **variable** y por ultimo la **dirección de memoria** del **puntero**, claramente tres elementos distintos aunque dos de ellos muestren por pantalla lo mismo.
