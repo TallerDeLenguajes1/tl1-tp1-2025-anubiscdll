@@ -54,3 +54,8 @@ En el código sin funcionar encontramos muchos problemas, ordenados según la li
 Con hacer estos cambios el código quedaria arreglado.
 
 ---
+
+## Punto 4
+
+En el repositorio de github veo los archivos del punto 2, tanto codigo como sus ejecutables, el gitignore y el readme. Los archivos que creo innecesarios que esten son los ejecutables ya que al estar el codigo es redundante que este el ejecutable.
+Por eso agrego reglas en el .gitignore para ignorar los ejecutables.
